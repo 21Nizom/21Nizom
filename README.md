@@ -26,8 +26,6 @@
 
 - **Языки программирования:** JavaScript (ES6+), HTML5, CSS3
 - **3D-графика и анимация:** Three.js, WebGL, Canvas API
-- **В разработке:** Концептуализация мобильного геймдев-проекта **"Neon Drift"** в эстетике киберпанка.
-
 ---
 
 ## 📊 Моя статистика GitHub
@@ -35,18 +33,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=21Nizom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="21Nizom's GitHub stats" />
 </p>
-
-<!--
-**21Nizom/21Nizom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
